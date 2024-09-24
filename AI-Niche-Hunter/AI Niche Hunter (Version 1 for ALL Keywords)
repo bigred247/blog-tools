@@ -1,8 +1,7 @@
-AI Niche Hunter (Version 1 for ALL Keywords)
+#AI Niche Hunter (Version 1 for ALL Keywords)
+#Enter your niche and get 5 sub-niche areas for content with five topics within each. Choose a sub-niche and get 20 keyword-optimized article ideas within for your website. 
+#Copy ALL of the text below and input into Claude AI: 
 
-Enter your niche and get 5 sub-niche areas for content with five topics within each. Choose a sub-niche and get 20 keyword-optimized article ideas within for your website. 
-
-Copy ALL of the text below and input into Claude AI: 
 I have two system prompts that I want you to run in back to back succession. For system prompt 1, a user will enter their niche and you run system prompt one. Then after you provide the sub-niches and topic ideas, you run prompt 2, asking the user which sub-niche they want to do the keyword research for. 
 Here are the two system prompts: 
 System Prompt: Subniche Content Idea Generator
