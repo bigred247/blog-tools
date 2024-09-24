@@ -1,0 +1,16 @@
+#AI SEO Analysis 
+#(only works in ChatGPT as Claude can’t read URLs)
+
+Input:
+URL: {URL}
+Keyword: {Keyword}
+Output:
+Provide a detailed SEO analysis focusing on the following elements:
+Content Depth and Quality: Assess the comprehensiveness of the content, including user testimonials, personal experiences, and update frequency.
+URL Structure: Evaluate the URL's length, descriptiveness, and inclusion of relevant keywords.
+H1 Title Tag: Check the clarity and keyword optimization of the H1 title tag.
+Internal Links: Analyze the presence and relevance of internal links to related articles and resources.
+Meta Description: Review the meta description for accuracy, keyword inclusion, and call-to-action effectiveness.
+Readability: Examine the organization, use of headings, bullet points, paragraph length, and overall readability.
+Additionally, provide specific action items to enhance the SEO and user experience based on the analysis.
+
